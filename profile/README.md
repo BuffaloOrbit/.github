@@ -97,16 +97,16 @@ Understand what takes up space, scan by data group and review items before choos
 
 The Buffalo Orbit website brings the four workflows together with a Three.js orbital hero and original Rive feature animations. Native scrolling advances through Agents, Design, Proxy and Cleaner; each app has its own visual language and color accent.
 
-[![Animated walkthrough of the Buffalo Orbit hero and all four product feature illustrations](https://raw.githubusercontent.com/BuffaloOrbit/.github/main/assets/showcase/buffalo-orbit-motion.gif)](https://github.com/BuffaloOrbit/.github/blob/main/assets/showcase/buffalo-orbit-motion.mp4)
+[![Animated walkthrough of the Buffalo Orbit hero and all four product feature illustrations](https://raw.githubusercontent.com/BuffaloOrbit/.github/main/assets/showcase/buffalo-orbit-motion.gif?v=20261012)](https://github.com/BuffaloOrbit/.github/blob/main/assets/showcase/buffalo-orbit-motion.mp4)
 
-**[▶ Open the full 11-second video](https://github.com/BuffaloOrbit/.github/blob/main/assets/showcase/buffalo-orbit-motion.mp4)** · **[Download MP4](https://raw.githubusercontent.com/BuffaloOrbit/.github/main/assets/showcase/buffalo-orbit-motion.mp4)**
+**[▶ Open the full 11-second video](https://github.com/BuffaloOrbit/.github/blob/main/assets/showcase/buffalo-orbit-motion.mp4)** · **[Download MP4](https://raw.githubusercontent.com/BuffaloOrbit/.github/main/assets/showcase/buffalo-orbit-motion.mp4?v=20261012)**
 
 The GIF and video record the running website. The animated diagrams are labeled feature illustrations; product screenshots are shown separately above. The website supports **English and Vietnamese**, mobile layouts, pause/resume and reduced motion.
 
 <details>
 <summary><strong>Mobile preview</strong> — Vietnamese product showcase</summary>
 <br />
-<img src="https://raw.githubusercontent.com/BuffaloOrbit/.github/main/assets/showcase/mobile.png" width="300" alt="Buffalo Orbit's four-product showcase on a 390-pixel mobile viewport" />
+<img src="https://raw.githubusercontent.com/BuffaloOrbit/.github/main/assets/showcase/mobile.png?v=20261012" width="300" alt="Buffalo Orbit's four-product showcase on a 390-pixel mobile viewport" />
 </details>
 
 ## Four directions, one engineering baseline
